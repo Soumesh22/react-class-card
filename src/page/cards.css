@@ -1,0 +1,47 @@
+.card{
+    border: 2px solid black;
+    border-radius: 20px;
+    margin-top: 100px;
+    margin-left: 50px;
+
+}
+.right{
+    color: green;
+    margin-left: 10px;
+    
+}
+.love{
+    margin-left: 220px;
+    color: blue;
+}
+.img{
+    height: 150px;
+    width: 150px;
+    margin-left: 70px;
+    border-radius: 50%;
+}.title{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+.text{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+
+}
+.assign, .view{
+    margin-left: px;
+    margin-bottom: 10px;
+    font-size: 20px;
+    border: none;
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+
+}
+.a{
+    margin-left: 20px;
+}
+.v{
+    margin-left: 50px;
+}
